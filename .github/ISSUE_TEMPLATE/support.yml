@@ -1,0 +1,24 @@
+name: Support / 使用支持
+description: Report a problem or ask for help with Voxamber / 反馈问题或获取维珀使用帮助
+title: "[Support] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is a public support issue. Do not include passwords, personal information, unpublished creations, or complete device logs.
+        这是公开支持问题。请勿提交密码、个人隐私、未公开作品或完整设备日志。
+  - type: input
+    id: app-version
+    attributes:
+      label: App version and build / App 版本与构建号
+  - type: input
+    id: device
+    attributes:
+      label: Device model and iOS version / 设备型号与 iOS 版本
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened? / 遇到了什么问题？
+      description: Include steps, expected behavior, and the message shown. / 请说明步骤、预期结果和出现的提示。
+    validations:
+      required: true
