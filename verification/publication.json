@@ -1,0 +1,314 @@
+{
+  "verifiedAt": "2026-11-05T09:25:43.004572+00:00",
+  "repository": "https://github.com/GPTAlgoPro/Voxamber-Website",
+  "websiteSourceVisibility": "public",
+  "visibilityReason": "GitHub Pages rejected the private website repository with HTTP 422 because the current plan does not support it. Only the independent public website repository was exposed.",
+  "appSourceRepositoryStillPrivate": true,
+  "defaultBranch": "dev",
+  "releaseBranch": "main",
+  "pagesSource": {
+    "branch": "main",
+    "path": "/docs"
+  },
+  "pagesBuildStatus": "built",
+  "releaseCommit": "a1d95b95d49e20e7873c607e0a4d7198bc7670e5",
+  "httpsEnforced": true,
+  "liveHTTP": {
+    "checkedAt": "2026-11-05T09:21:44.133Z",
+    "baseURL": "https://gptalgopro.github.io/Voxamber-Website/",
+    "pages": [
+      {
+        "path": "",
+        "status": 200,
+        "title": "灵感，不必止于想象 · 维珀 Voxamber"
+      },
+      {
+        "path": "en/",
+        "status": 200,
+        "title": "Make imagination tangible · Voxamber"
+      },
+      {
+        "path": "support/",
+        "status": 200,
+        "title": "支持中心 · 维珀 Voxamber"
+      },
+      {
+        "path": "en/support/",
+        "status": 200,
+        "title": "Support center · Voxamber"
+      },
+      {
+        "path": "privacy/",
+        "status": 200,
+        "title": "隐私政策 · 维珀 Voxamber"
+      },
+      {
+        "path": "en/privacy/",
+        "status": 200,
+        "title": "Privacy policy · Voxamber"
+      }
+    ]
+  },
+  "localHTTP": {
+    "checkedAt": "2026-11-05T09:20:33.993Z",
+    "baseURL": "http://127.0.0.1:8766/Voxamber-Website/",
+    "pages": [
+      {
+        "path": "",
+        "status": 200,
+        "title": "灵感，不必止于想象 · 维珀 Voxamber"
+      },
+      {
+        "path": "en/",
+        "status": 200,
+        "title": "Make imagination tangible · Voxamber"
+      },
+      {
+        "path": "support/",
+        "status": 200,
+        "title": "支持中心 · 维珀 Voxamber"
+      },
+      {
+        "path": "en/support/",
+        "status": 200,
+        "title": "Support center · Voxamber"
+      },
+      {
+        "path": "privacy/",
+        "status": 200,
+        "title": "隐私政策 · 维珀 Voxamber"
+      },
+      {
+        "path": "en/privacy/",
+        "status": 200,
+        "title": "Privacy policy · Voxamber"
+      }
+    ]
+  },
+  "responsiveChecks": [
+    {
+      "path": "",
+      "width": 390,
+      "height": 844,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/#workflow",
+        "/Voxamber-Website/support/",
+        "/Voxamber-Website/privacy/",
+        "/Voxamber-Website/en/"
+      ],
+      "scrollWidth": 390,
+      "title": "灵感，不必止于想象 · 维珀 Voxamber"
+    },
+    {
+      "path": "en/",
+      "width": 390,
+      "height": 844,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/en/#workflow",
+        "/Voxamber-Website/en/support/",
+        "/Voxamber-Website/en/privacy/",
+        "/Voxamber-Website/"
+      ],
+      "scrollWidth": 390,
+      "title": "Make imagination tangible · Voxamber"
+    },
+    {
+      "path": "support/",
+      "width": 390,
+      "height": 844,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/#workflow",
+        "/Voxamber-Website/support/",
+        "/Voxamber-Website/privacy/",
+        "/Voxamber-Website/en/support/"
+      ],
+      "scrollWidth": 390,
+      "title": "支持中心 · 维珀 Voxamber"
+    },
+    {
+      "path": "en/support/",
+      "width": 390,
+      "height": 844,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/en/#workflow",
+        "/Voxamber-Website/en/support/",
+        "/Voxamber-Website/en/privacy/",
+        "/Voxamber-Website/support/"
+      ],
+      "scrollWidth": 390,
+      "title": "Support center · Voxamber"
+    },
+    {
+      "path": "privacy/",
+      "width": 390,
+      "height": 844,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/#workflow",
+        "/Voxamber-Website/support/",
+        "/Voxamber-Website/privacy/",
+        "/Voxamber-Website/en/privacy/"
+      ],
+      "scrollWidth": 390,
+      "title": "隐私政策 · 维珀 Voxamber"
+    },
+    {
+      "path": "en/privacy/",
+      "width": 390,
+      "height": 844,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/en/#workflow",
+        "/Voxamber-Website/en/support/",
+        "/Voxamber-Website/en/privacy/",
+        "/Voxamber-Website/privacy/"
+      ],
+      "scrollWidth": 390,
+      "title": "Privacy policy · Voxamber"
+    },
+    {
+      "path": "",
+      "width": 1440,
+      "height": 1000,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/#workflow",
+        "/Voxamber-Website/support/",
+        "/Voxamber-Website/privacy/",
+        "/Voxamber-Website/en/"
+      ],
+      "scrollWidth": 1440,
+      "title": "灵感，不必止于想象 · 维珀 Voxamber"
+    },
+    {
+      "path": "en/",
+      "width": 1440,
+      "height": 1000,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/en/#workflow",
+        "/Voxamber-Website/en/support/",
+        "/Voxamber-Website/en/privacy/",
+        "/Voxamber-Website/"
+      ],
+      "scrollWidth": 1440,
+      "title": "Make imagination tangible · Voxamber"
+    },
+    {
+      "path": "support/",
+      "width": 1440,
+      "height": 1000,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/#workflow",
+        "/Voxamber-Website/support/",
+        "/Voxamber-Website/privacy/",
+        "/Voxamber-Website/en/support/"
+      ],
+      "scrollWidth": 1440,
+      "title": "支持中心 · 维珀 Voxamber"
+    },
+    {
+      "path": "en/support/",
+      "width": 1440,
+      "height": 1000,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/en/#workflow",
+        "/Voxamber-Website/en/support/",
+        "/Voxamber-Website/en/privacy/",
+        "/Voxamber-Website/support/"
+      ],
+      "scrollWidth": 1440,
+      "title": "Support center · Voxamber"
+    },
+    {
+      "path": "privacy/",
+      "width": 1440,
+      "height": 1000,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/#workflow",
+        "/Voxamber-Website/support/",
+        "/Voxamber-Website/privacy/",
+        "/Voxamber-Website/en/privacy/"
+      ],
+      "scrollWidth": 1440,
+      "title": "隐私政策 · 维珀 Voxamber"
+    },
+    {
+      "path": "en/privacy/",
+      "width": 1440,
+      "height": 1000,
+      "h1Count": 1,
+      "hasForm": false,
+      "hasThirdPartyScript": false,
+      "imagesReady": true,
+      "navLinks": [
+        "/Voxamber-Website/en/#workflow",
+        "/Voxamber-Website/en/support/",
+        "/Voxamber-Website/en/privacy/",
+        "/Voxamber-Website/privacy/"
+      ],
+      "scrollWidth": 1440,
+      "title": "Privacy policy · Voxamber"
+    }
+  ],
+  "browser": "ChatGPT in-app browser via Browser plugin",
+  "contactRoute": "https://github.com/GPTAlgoPro/Voxamber-Website/issues/new/choose",
+  "contactVerifiedBehavior": "Unauthenticated users reach GitHub sign-in as disclosed on support page; no issue or message was submitted.",
+  "conceptInspectedWithViewImage": true,
+  "finalLiveScreenshotInspectedWithViewImage": true,
+  "designComparison": [
+    "dark palette and system typography",
+    "open hero composition and exact primary copy",
+    "actual brand mark and labeled abstract illustration",
+    "three-step editorial workflow",
+    "privacy band and consistent footer",
+    "mobile reflow and legal readability"
+  ],
+  "intentionalDeviations": [
+    "Added compatibility and generation-quality status required by actual product state.",
+    "Separate bilingual support/privacy documents follow the same visual system."
+  ],
+  "limitations": [
+    "App availability and generation quality remain under development; the website does not guarantee App Store acceptance."
+  ]
+}
